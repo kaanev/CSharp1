@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe.config
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.pdb
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.pdb

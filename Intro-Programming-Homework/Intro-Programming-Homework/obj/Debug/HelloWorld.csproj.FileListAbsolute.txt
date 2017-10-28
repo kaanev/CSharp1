@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb

@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\10. Point, Circle, Rectangle\bin\Debug\_10.Point__Circle__Rectangle.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\10. Point, Circle, Rectangle\bin\Debug\_10.Point__Circle__Rectangle.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\10. Point, Circle, Rectangle\bin\Debug\_10.Point__Circle__Rectangle.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\10. Point, Circle, Rectangle\obj\Debug\10. Point, Circle, Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\10. Point, Circle, Rectangle\obj\Debug\_10.Point__Circle__Rectangle.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\10. Point, Circle, Rectangle\obj\Debug\_10.Point__Circle__Rectangle.pdb

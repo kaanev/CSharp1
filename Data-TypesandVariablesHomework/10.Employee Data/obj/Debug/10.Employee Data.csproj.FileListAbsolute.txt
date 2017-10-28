@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\10.Employee Data\bin\Debug\10.Employee Data.exe.config
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\10.Employee Data\bin\Debug\10.Employee Data.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\10.Employee Data\bin\Debug\10.Employee Data.pdb
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\10.Employee Data\obj\Debug\10.Employee Data.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\10.Employee Data\obj\Debug\10.Employee Data.pdb

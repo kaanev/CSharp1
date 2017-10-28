@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\12. N-th bit\bin\Debug\_12.N_th_bit.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\12. N-th bit\bin\Debug\_12.N_th_bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\12. N-th bit\bin\Debug\_12.N_th_bit.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\12. N-th bit\obj\Debug\12. N-th bit.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\12. N-th bit\obj\Debug\_12.N_th_bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\12. N-th bit\obj\Debug\_12.N_th_bit.pdb

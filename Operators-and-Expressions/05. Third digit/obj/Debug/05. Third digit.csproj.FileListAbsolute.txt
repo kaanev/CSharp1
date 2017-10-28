@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\05. Third digit\bin\Debug\_05.Third_digit.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\05. Third digit\obj\Debug\05. Third digit.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\05. Third digit\bin\Debug\_05.Third_digit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\05. Third digit\bin\Debug\_05.Third_digit.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\05. Third digit\obj\Debug\_05.Third_digit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\05. Third digit\obj\Debug\_05.Third_digit.pdb

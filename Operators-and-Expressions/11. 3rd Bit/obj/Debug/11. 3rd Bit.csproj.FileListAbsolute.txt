@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\11. 3rd Bit\bin\Debug\11. 3rd Bit.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\11. 3rd Bit\bin\Debug\11. 3rd Bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\11. 3rd Bit\bin\Debug\11. 3rd Bit.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\11. 3rd Bit\obj\Debug\11. 3rd Bit.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\11. 3rd Bit\obj\Debug\11. 3rd Bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\11. 3rd Bit\obj\Debug\11. 3rd Bit.pdb

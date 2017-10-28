@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\07. Point in a circle\bin\Debug\_07.Point_in_a_circle.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\07. Point in a circle\bin\Debug\_07.Point_in_a_circle.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\07. Point in a circle\bin\Debug\_07.Point_in_a_circle.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\07. Point in a circle\obj\Debug\07. Point in a circle.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\07. Point in a circle\obj\Debug\_07.Point_in_a_circle.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\07. Point in a circle\obj\Debug\_07.Point_in_a_circle.pdb

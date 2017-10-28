@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\02. Moon Gravity\bin\Debug\_02.Moon_Gravity.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\02. Moon Gravity\bin\Debug\_02.Moon_Gravity.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\02. Moon Gravity\bin\Debug\_02.Moon_Gravity.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\02. Moon Gravity\obj\Debug\02. Moon Gravity.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\02. Moon Gravity\obj\Debug\_02.Moon_Gravity.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\02. Moon Gravity\obj\Debug\_02.Moon_Gravity.pdb

@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Four digits\bin\Debug\Four digits.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Four digits\bin\Debug\Four digits.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Four digits\bin\Debug\Four digits.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Four digits\obj\Debug\Four digits.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Four digits\obj\Debug\Four digits.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Four digits\obj\Debug\06.Four digits.csprojResolveAssemblyReference.cache

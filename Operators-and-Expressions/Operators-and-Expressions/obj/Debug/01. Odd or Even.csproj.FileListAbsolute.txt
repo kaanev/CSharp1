@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Operators-and-Expressions\bin\Debug\Operators-and-Expressions.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Operators-and-Expressions\bin\Debug\Operators-and-Expressions.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Operators-and-Expressions\bin\Debug\Operators-and-Expressions.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Operators-and-Expressions\obj\Debug\01. Odd or Even.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Operators-and-Expressions\obj\Debug\Operators-and-Expressions.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\Operators-and-Expressions\obj\Debug\Operators-and-Expressions.pdb

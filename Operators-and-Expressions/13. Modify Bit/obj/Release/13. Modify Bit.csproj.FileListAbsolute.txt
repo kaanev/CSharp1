@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\bin\Release\_13.Modify_Bit.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\bin\Release\_13.Modify_Bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\bin\Release\_13.Modify_Bit.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\obj\Release\_13.Modify_Bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\obj\Release\_13.Modify_Bit.pdb

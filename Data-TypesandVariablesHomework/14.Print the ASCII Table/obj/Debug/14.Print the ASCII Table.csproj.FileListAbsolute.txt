@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.exe.config
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.pdb
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.pdb

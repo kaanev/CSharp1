@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\04. Rectangles\bin\Debug\_04.Rectangles.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\04. Rectangles\obj\Debug\04. Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\04. Rectangles\obj\Debug\_04.Rectangles.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\04. Rectangles\obj\Debug\_04.Rectangles.pdb

@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintNumber\bin\Debug\PrintNumber.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintNumber\bin\Debug\PrintNumber.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintNumber\bin\Debug\PrintNumber.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintNumber\obj\Debug\PrintNumber.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintNumber\obj\Debug\PrintNumber.pdb

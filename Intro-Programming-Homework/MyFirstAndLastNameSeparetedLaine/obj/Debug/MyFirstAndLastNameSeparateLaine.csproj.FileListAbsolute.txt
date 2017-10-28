@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\MyFirstAndLastNameSeparetedLaine\bin\Debug\MyFirstAndLastNameSeparetedLaine.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\MyFirstAndLastNameSeparetedLaine\bin\Debug\MyFirstAndLastNameSeparetedLaine.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\MyFirstAndLastNameSeparetedLaine\bin\Debug\MyFirstAndLastNameSeparetedLaine.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\MyFirstAndLastNameSeparetedLaine\obj\Debug\MyFirstAndLastNameSeparetedLaine.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\MyFirstAndLastNameSeparetedLaine\obj\Debug\MyFirstAndLastNameSeparetedLaine.pdb

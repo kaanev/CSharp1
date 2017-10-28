@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\OneToThusand\bin\Debug\OneToThusand.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\OneToThusand\bin\Debug\OneToThusand.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\OneToThusand\bin\Debug\OneToThusand.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\OneToThusand\obj\Debug\OneToThusand.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\OneToThusand\obj\Debug\OneToThusand.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\OneToThusand\obj\Debug\11OneToThusand.csprojResolveAssemblyReference.cache

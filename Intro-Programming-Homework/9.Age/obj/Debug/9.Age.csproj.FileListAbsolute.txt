@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\9.Age\bin\Debug\9.Age.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\9.Age\bin\Debug\9.Age.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\9.Age\bin\Debug\9.Age.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\9.Age\obj\Debug\9.Age.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\9.Age\obj\Debug\9.Age.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\9.Age\obj\Debug\9.Age.csprojResolveAssemblyReference.cache

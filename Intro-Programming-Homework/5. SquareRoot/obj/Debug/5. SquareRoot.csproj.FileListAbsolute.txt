@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\5. SquareRoot\bin\Debug\_5.SquareRoot.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\5. SquareRoot\bin\Debug\_5.SquareRoot.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\5. SquareRoot\bin\Debug\_5.SquareRoot.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\5. SquareRoot\obj\Debug\_5.SquareRoot.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\5. SquareRoot\obj\Debug\_5.SquareRoot.pdb

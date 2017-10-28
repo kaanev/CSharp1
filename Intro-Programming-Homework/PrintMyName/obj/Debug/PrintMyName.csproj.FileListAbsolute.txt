@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,5 @@
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\11.Bank Acount\bin\Debug\11.Bank Acount.exe.config
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\11.Bank Acount\bin\Debug\11.Bank Acount.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\11.Bank Acount\bin\Debug\11.Bank Acount.pdb
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\11.Bank Acount\obj\Debug\11.Bank Acount.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\11.Bank Acount\obj\Debug\11.Bank Acount.pdb

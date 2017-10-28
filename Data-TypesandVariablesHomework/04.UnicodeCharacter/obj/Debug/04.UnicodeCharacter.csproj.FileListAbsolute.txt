@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\k\Desktop\New folder\Data-TypesandVariablesHomework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

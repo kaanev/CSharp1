@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\bin\Debug\_13.Modify_Bit.exe.config
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\obj\Debug\13. Modify Bit.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\bin\Debug\_13.Modify_Bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\bin\Debug\_13.Modify_Bit.pdb
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\obj\Debug\_13.Modify_Bit.exe
+C:\Users\k\Desktop\New folder\Operators-and-Expressions\13. Modify Bit\obj\Debug\_13.Modify_Bit.pdb

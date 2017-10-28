@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\8. DateTime Now\bin\Debug\_8.DateTime_Now.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\8. DateTime Now\obj\Debug\8. DateTime Now.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\8. DateTime Now\bin\Debug\_8.DateTime_Now.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\8. DateTime Now\bin\Debug\_8.DateTime_Now.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\8. DateTime Now\obj\Debug\_8.DateTime_Now.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\8. DateTime Now\obj\Debug\_8.DateTime_Now.pdb

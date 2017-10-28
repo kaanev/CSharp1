@@ -1,0 +1,6 @@
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\10.Print Long Sequence\bin\Debug\10.Print Long Sequence.exe.config
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\10.Print Long Sequence\obj\Debug\10.Print Long Sequence.csprojResolveAssemblyReference.cache
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\10.Print Long Sequence\bin\Debug\10.Print Long Sequence.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\10.Print Long Sequence\bin\Debug\10.Print Long Sequence.pdb
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\10.Print Long Sequence\obj\Debug\10.Print Long Sequence.exe
+C:\Users\k\Desktop\New folder\Intro-Programming-Homework\10.Print Long Sequence\obj\Debug\10.Print Long Sequence.pdb
