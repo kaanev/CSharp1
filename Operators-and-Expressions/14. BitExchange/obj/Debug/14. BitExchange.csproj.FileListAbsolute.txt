@@ -4,3 +4,6 @@ C:\Users\k\Desktop\New folder\Operators-and-Expressions\14. BitExchange\bin\Debu
 C:\Users\k\Desktop\New folder\Operators-and-Expressions\14. BitExchange\obj\Debug\14. BitExchange.csprojResolveAssemblyReference.cache
 C:\Users\k\Desktop\New folder\Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.exe
 C:\Users\k\Desktop\New folder\Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.pdb
+E:\charp\CSharp1\Operators-and-Expressions\14. BitExchange\bin\Debug\_14.BitExchange.exe.config
+E:\charp\CSharp1\Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.exe
+E:\charp\CSharp1\Operators-and-Expressions\14. BitExchange\obj\Debug\_14.BitExchange.pdb
